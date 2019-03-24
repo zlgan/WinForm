@@ -1,0 +1,4 @@
+E:\02study\02code\winform\WindowsFormsApplication1\CustomerControl\bin\Debug\CustomerControl.dll
+E:\02study\02code\winform\WindowsFormsApplication1\CustomerControl\bin\Debug\CustomerControl.pdb
+E:\02study\02code\winform\WindowsFormsApplication1\CustomerControl\obj\Debug\CustomerControl.dll
+E:\02study\02code\winform\WindowsFormsApplication1\CustomerControl\obj\Debug\CustomerControl.pdb

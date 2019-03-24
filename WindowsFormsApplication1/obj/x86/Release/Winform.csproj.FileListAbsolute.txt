@@ -1,0 +1,16 @@
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.MDIParent1.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1._03窗体之间的通讯.Form1.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1._03窗体之间的通讯.Form2.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1._04消息循环.Form1.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form3.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.控件学习.ContextMenuStrip.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.控件学习.LeftForm.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.控件学习.MDIParent1.resources
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Winform.csproj.GenerateResource.Cache
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+E:\02study\02code\winform\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

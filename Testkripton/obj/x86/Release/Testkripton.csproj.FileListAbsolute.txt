@@ -1,0 +1,9 @@
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\bin\Release\Testkripton.exe
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\bin\Release\Testkripton.pdb
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\bin\Release\ComponentFactory.Krypton.Design.dll
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\bin\Release\ComponentFactory.Krypton.Design.pdb
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\obj\x86\Release\Testkripton.csprojResolveAssemblyReference.cache
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\obj\x86\Release\Testkripton.Properties.Resources.resources
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\obj\x86\Release\Testkripton.csproj.GenerateResource.Cache
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\obj\x86\Release\Testkripton.exe
+E:\02study\02code\winform\WindowsFormsApplication1\Testkripton\obj\x86\Release\Testkripton.pdb
