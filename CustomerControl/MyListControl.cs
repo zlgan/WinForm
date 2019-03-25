@@ -7,6 +7,7 @@ using System.ComponentModel;
 using System.Drawing;
 using System.ComponentModel.Design.Serialization;
 using System.Reflection;
+using System.Drawing.Design;
 
 namespace CustomerControl
 {
@@ -14,6 +15,7 @@ namespace CustomerControl
     {
         private List<Int32> _list = new List<Int32>();
         private Scope _scope;
+        //private  string _displayText="";
 
         public MyListControl()
         {
@@ -38,6 +40,7 @@ namespace CustomerControl
         }
 
         [Browsable(true)]
+        [Editor(typeof(ScopeEditor), typeof(UITypeEditor))]
         public Scope Scope
         {
             get
@@ -50,7 +53,23 @@ namespace CustomerControl
             }
         }
 
+        [Browsable(true)]
+        [DefaultValue("DefaultValue特性")]
+        public String DisplayText
+        {
+            //get
+            //{
+            //    return _displayText;
+            //}
+            //set
+            //{
+            //    _displayText = value;
+            //    Invalidate();
+            //}
 
+            get;
+            set;
+        }
         protected override void OnPaint(PaintEventArgs e)
         {
             base.OnPaint(e);
@@ -70,8 +89,8 @@ namespace CustomerControl
     [TypeConverter(typeof(ScopeConverter))]
     public class Scope
     {
-        private Int32 _min;
-        private Int32 _max;
+        private Int32 _min=1;
+        private Int32 _max=5;
 
         public Scope()
         {

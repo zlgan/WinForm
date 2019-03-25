@@ -28,24 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.myListControl1 = new CustomerControl.MyListControl();
+            this.button1 = new System.Windows.Forms.Button();
             this.firstControl1 = new CustomControlSample.FirstControl();
+            this.myListControl1 = new CustomerControl.MyListControl();
             this.SuspendLayout();
             // 
-            // myListControl1
+            // button1
             // 
-            this.myListControl1.Item.Add(1);
-            this.myListControl1.Item.Add(2);
-            this.myListControl1.Item.Add(3);
-            this.myListControl1.Item.Add(4);
-            this.myListControl1.Item.Add(5);
-            this.myListControl1.Item.Add(6);
-            this.myListControl1.Location = new System.Drawing.Point(127, 88);
-            this.myListControl1.Name = "myListControl1";
-            this.myListControl1.Scope = new CustomerControl.Scope(1, 5);
-            this.myListControl1.Size = new System.Drawing.Size(74, 94);
-            this.myListControl1.TabIndex = 1;
-            this.myListControl1.Text = "myListControl1";
+            this.button1.Location = new System.Drawing.Point(235, 370);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // firstControl1
             // 
@@ -56,12 +52,23 @@
             this.firstControl1.Text = "HelloWorld";
             this.firstControl1.TextAlignment = System.Drawing.ContentAlignment.TopCenter;
             // 
+            // myListControl1
+            // 
+            this.myListControl1.DisplayText = null;
+            this.myListControl1.Location = new System.Drawing.Point(278, 179);
+            this.myListControl1.Name = "myListControl1";
+            this.myListControl1.Scope = null;
+            this.myListControl1.Size = new System.Drawing.Size(75, 23);
+            this.myListControl1.TabIndex = 3;
+            this.myListControl1.Text = "myListControl1";
+            // 
             // TestControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(469, 455);
             this.Controls.Add(this.myListControl1);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.firstControl1);
             this.Name = "TestControl";
             this.Text = "TestControl";
@@ -72,6 +79,7 @@
         #endregion
 
         private CustomControlSample.FirstControl firstControl1;
+        private System.Windows.Forms.Button button1;
         private CustomerControl.MyListControl myListControl1;
     }
 }
